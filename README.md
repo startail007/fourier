@@ -1,4 +1,4 @@
 # fourier
 
 傅立葉
-[GO](https://virtools.github.io/fourier/)
+[GO](https://startail007.github.io/fourier/)
